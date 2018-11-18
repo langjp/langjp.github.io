@@ -3,6 +3,8 @@
 ### 抽签软件
 [随机生成同学的名字](https://www.lanzous.com/i29zthc)
 
+[20班抽签V1.0](https://www.lanzous.com/i29ztej)
+
 [20班抽签V2.2](https://www.lanzous.com/i2a2gje)
 ## 资源下载
 ### 电影
