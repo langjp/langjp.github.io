@@ -1,4 +1,3 @@
-# 常用下载
 ## 软件下载
 ### 抽签软件
 [随机生成同学的名字](https://www.lanzous.com/i29zthc)
