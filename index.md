@@ -14,4 +14,5 @@
 
 [我不是药神](http://dl318.80s.im:920/1811/我不是药神/我不是药神.mp4)
 
-http://langjiapeng.GitHub.io/index2.md
+# 信息页面
+[点我进入](http://langjiapeng.github.io/xinxi/import.html)
