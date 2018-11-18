@@ -4,3 +4,4 @@
 20班抽签V2.2 [蓝奏云](https://www.lanzous.com/i2a2gje) [直链下载](https://development49.baidupan.com/2018111814bb/2018/11/03/2eafc27540151c28998667e556bd456c.zip?st=s6rQ0Hx7CpfVzhEMkyiNcw&q=20%E7%8F%AD%E6%8A%BD%E7%AD%BE%20V2.2.zip&e=1542523628&ip=39.181.180.196&fi=5556584&up=)
 # 资源下载
 ## 电影
+[名侦探柯南：零的执行了](http://dl196.80s.im:920/1810/名侦探柯南：零的执行人/名侦探柯南：零的执行人.mp4)
