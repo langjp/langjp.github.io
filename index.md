@@ -7,7 +7,7 @@
 ### 信息技术常用软件
 ed2k下载工具-迅雷 [点我下载](http://down.sandai.net/ThunderVIP/ThunderVIP-xlgw.exe)
 
-VB6.0 [ed2k](ed2k://|file|sc_vb6_ent_cd1.iso|274132992|93B08D085B3D7CC0E6DC0EDEBC96E95B|/) 
+VB6.0 ed2k://|file|sc_vb6_ent_cd1.iso|274132992|93B08D085B3D7CC0E6DC0EDEBC96E95B|/
 ## 资源下载
 ### 电影
 [名侦探柯南：零的执行人](http://dl196.80s.im:920/1810/名侦探柯南：零的执行人/名侦探柯南：零的执行人.mp4)
