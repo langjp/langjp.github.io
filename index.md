@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## 资源管理
+### 软件下载
+<h3 id="抽签软件">抽签软件</h3>
 
-You can use the [editor on GitHub](https://github.com/langjiapeng/langjiapeng.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<p><a href="https://www.lanzous.com/i29zthc">随机生成同学的名字</a></p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p><a href="https://www.lanzous.com/i29ztej">20班抽签V1.0</a></p>
 
-### Markdown
+<p><a href="https://www.lanzous.com/i2a2gje">20班抽签V2.2</a></p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<h2 id="资源下载">资源下载</h2>
 
-```markdown
-Syntax highlighted code block
+<h3 id="电影">电影</h3>
 
-# Header 1
-## Header 2
-### Header 3
+<p><a href="http://dl196.80s.im:920/1810/名侦探柯南：零的执行人/名侦探柯南：零的执行人.mp4">名侦探柯南：零的执行人</a></p>
 
-- Bulleted
-- List
+<p><a href="http://dl518.80s.im:920/1811/西虹市首富/西虹市首富.mp4">西虹市首富</a></p>
 
-1. Numbered
-2. List
+<p><a href="http://dl318.80s.im:920/1811/我不是药神/我不是药神.mp4">我不是药神</a></p>
 
-**Bold** and _Italic_ and `Code` text
+<h1 id="信息页面">信息页面</h1>
 
-[Link](url) and ![Image](src)
-```
+<p><a href="http://langjiapeng.github.io/page/xinxi">点我进入</a></p>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/langjiapeng/langjiapeng.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
