@@ -1,5 +1,3 @@
-## 软件
-[百度云](https://pan.baidu.com/s/1IsR1FOZdPHsbIcbaHWBK_Q)
-# 测试
-## 测试2
-### 测试3
+# 软件下载
+## 抽签软件
+随机生成同学的名字 [蓝奏云](https://www.lanzous.com/i29zthc) [直链下载](https://development23.baidupan.com/2018111814bb/2018/11/03/910eb9076bece29c53f466efb1730f84.zip?st=l3KPNyRI2fGorXTnEiABwA&q=%E9%9A%8F%E6%9C%BA%E7%94%9F%E6%88%90%E5%90%8C%E5%AD%A6%E5%90%8D%E5%AD%97.zip&e=1542523374&ip=39.181.180.196&fi=5553162&up=)
