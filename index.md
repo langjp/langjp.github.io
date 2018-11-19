@@ -12,6 +12,7 @@
 [20班抽签 V2.2.zip](https://langjiapeng.github.io/download/20班抽签 V2.2.zip)
 
 ## 影视资源
+我不是药神 [1.5G](http://dl318.80s.im:920/1811/我不是药神/我不是药神.mp4) [946.5MB](http://dl318.80s.im:920/1811/我不是药神/我不是药神_bd.mp4)
 
 ## 页面管理
 [文件下载页面](https://langjiapeng.github.io/download/download.html)
