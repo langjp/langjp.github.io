@@ -13,5 +13,5 @@
 
 ## 影视资源
 
-## 页面管理
-[文件][https://langjiapeng.github.io/page/xinxi.html]
+# 页面管理
+[文件](https://langjiapeng.github.io/page/xinxi.html)
