@@ -10,3 +10,8 @@
 [20班抽签 V2.1.zip](https://langjiapeng.github.io/download/20班抽签 V2.1.zip)
 
 [20班抽签 V2.2.zip](https://langjiapeng.github.io/download/20班抽签 V2.2.zip)
+
+## 影视资源
+
+## 页面管理
+[文件][https://langjiapeng.github.io/page/xinxi.html]
