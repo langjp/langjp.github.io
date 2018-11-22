@@ -16,9 +16,7 @@
 
 [西虹市首富](http://dl518.80s.im:920/1811/西虹市首富/西虹市首富.mp4)
 ## 页面管理
-<section style="color:Red;">
-<p><a href="http://pgzy.zjzs.net:8011/login.htm">浙江省高校招生考试报名系统</a></p>
-</section>
+[浙江省高校招生考试报名系统](http://pgzy.zjzs.net:8011/login.htm)
 
 [文件下载页面](https://langjiapeng.github.io/download/download.html)
 
