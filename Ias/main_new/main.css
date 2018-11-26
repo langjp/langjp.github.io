@@ -1,0 +1,143 @@
+@charset "utf-8";
+/* CSS Document */
+html { -webkit-text-size-adjust:none; cursor:default; }
+body { color:#333; cursor: default; background: #F4F9FD url(img/bg.jpg) repeat-x; }
+body, input, select, button, textarea { font:14px "宋体", Verdana, Geneva, sans-serif }
+h1, h2, h3, h4, h5, h6, select, input, textarea, button, table { font-size:100% }
+body, h1, h2, h3, h4, h5, h6, ul, ol, li, form, p, dl, dt, dd, table, th, td, img, blockquote, legend, fieldset { margin:0; padding:0; border:0 }
+input, button, textarea, select, img { margin:0; line-height:normal }
+abbr, acronym, address, cite, q, em, code, var, dfn, ins { font-style:normal; text-decoration:none }
+ul, ol { list-style:none }
+select, input, button, button img, label { vertical-align:middle }
+input[type="text"] { -webkit-appearance:none }
+input { outline-width:0!important;outline: none !important; }
+/*Used*/
+a { color:#03309D; text-decoration:none; }
+a:hover { text-decoration:underline; }
+.red { color:red !important; }
+.f_90 { font-size:90% }
+.f_80 { font-size:80% }
+/*Images*/
+.login_operate ul li, .login_operate ul li span, .login_btn_ok, .login_btn_other, .login_head dt, .login_box_msg dt, .shiftKey .ico { background:url(img/i_b_bg.png) no-repeat; }
+.head .tool ul li { background:url(img/tool.gif) no-repeat; }
+.central_bg { background:url(img/concept.png) no-repeat left; }
+.other_x { background:url(img/separator.png) no-repeat left top; }
+/*Public*/
+.login_operate ul li { margin-bottom:4px; height:38px; width:308px; }
+.login_operate ul li { position: relative; }
+.rempwd {color:#666; font-size:12px;margin-left:3px;vertical-align:middle;}
+.rempwd input{
+	_vertical-align:-1px;　　/*针对IE6使用hack*/
+	vertical-align: -5px;
+}
+/*tip*/
+.login_operate ul li .txt_default { position: absolute; top: 8px; left: 32px; color: #999; height: 22px; line-height: 22px; cursor: text;}
+/**/
+.input { height:20px; line-height:20px; padding:5px; margin:4px; width:260px; border:0px; font-family: Verdana; background-color:transparent; margin-left:28px; }
+* html .input { _height:20px; _line-height:20px; _padding:3px; _margin:4px; _padding-left:25px;}
+.button { height:38px; background:none; border:none; text-align:center; color:#FFF; cursor:pointer }
+/*-----head-----*/
+.head { height:70px; margin-bottom:4px; clear:both;}
+.head .logo { }
+.head .logo dl dt { height:70px; overflow:hidden; float:left; margin:14px 10px 14px 25px; _margin:14px 10px 14px 15px; }
+.head .logo dl dd { float:left; font-family:"微软雅黑", "宋体", Verdana, Geneva, sans-serif; padding-top:16px; width:300px; }
+.head .logo dl dd h2 { font-size:16px; color:#E9EEF6; height:22px; }
+.head .logo dl dd h4 { font-size:11px; font-weight:normal; color:#C5D2E5; height:16px; }
+.head .logo img.logo { height:42px; }
+/**/
+.head .tool { float:right; margin-top:27px; }
+.head .tool ul li { color: #D2DDEC; font-size:12px; float:left; margin:0 30px 10px 0px; height:16px; padding-left:22px; }
+.head .tool ul li.modify { }
+.head .tool ul li.download { background-position:0 -16px; }
+.head .tool ul li.return { background-position:0 -32px; }
+.head .tool ul li.white { background-position:0 -48px; }
+.head .tool ul li a { color: #D2DDEC }
+/*-----central-----*/
+.central {/* position:relative; height: 500px*/}
+.login { width:640px; height:300px; margin-top:-160px; margin-left:-320px; position:absolute; top:50%; left:50%; z-index:99; overflow:hidden }
+.login .login_body { padding-top:50px; float:left; width:370px }
+.login .login_head { clear:left;}
+.login .login_head dt { width:32px; height:47px; float:left; background-position:-347px 0;}
+.login .login_head dt.phone_ico { background-position:-347px 0 }
+.login .login_head dt.user_ico { background-position:-382px 0 }
+.login .login_head dt.authresultmix_ico { background-position:-347px -49px; }
+.login .login_head dd { color:#666; font-size:12px; /*float:left; */border-left:2px solid #CED6DF; padding-left:5px; line-height:18px; margin-left:40px}
+.login .login_head dd span { color:#454647; font-size:14px; font-weight:bold; display:block; height:22px; line-height:22px; }
+/*phone*/
+.login_operate { height:83px; position:relative; clear: both }
+.login_operate span { display:block; float:left; width:16px; height:16px; position:absolute; left:9px; top:11px ;}
+.login_operate .phone { width:198px; background-position:0 -120px; float:left }
+.login_operate .phone .input { width:150px !important; }
+.login_operate .phone span { background-position:-311px -36px; }
+.login_operate .sms { clear:left; }
+.login_operate .sms span { background-position:-311px -54px; }
+/**/
+.login_operate .sms_go { width:108px !important; height:38px; background-position:-320px -120px; float:left; margin-left:1px }
+.login_operate .sms_go .button { width:108px; color:#333 }
+/*username*/
+.login_operate .username { float:left }
+.login_operate .username span { background-position:-311px 0px; }
+.login_operate .password { clear:left }
+.login_operate .password span,.login_operate .password_new span,.login_operate .password_n span { background-position:-311px -18px; }
+/**/
+.btn_ok { clear: both }
+.login_btn_ok { width:118px !important; background-position:-200px -120px; width:30px; margin-top:6px; }
+.login_btn_ok .button { width:118px; }
+/*msg*/
+.login_box_msg { font-size:12px; color:#000; line-height:18px; }
+.login_box_msg dl dt { background-position:-311px -72px; width:18px; height:18px; margin:0 4px 0 2px; float:left }
+.login_box_msg dl dd { float:left }
+.shiftKey dl dt { background-position:-329px -72px; }
+/*other*/
+.other_x { height:300px; width:5px; float:left; margin-right:20px; }
+.other { float:left; margin-top:105px }
+.other p { color:#666; font-size:12px; line-height:18px; margin-bottom:5px }
+.other p span { font-weight:bold; display:block; }
+.other .login_btn_other { background-position:0 -240px; width:128px; font-size:12px; cursor:pointer; }
+.other .login_btn_other span { color:#FFF; display:block; width:110px; height:36px; line-height:36px; text-align: left; padding-left:18px; }
+/*-----bottom-----*/
+.bottom { height:80px; width:100%; background-color:#ECF3FD; position:absolute; bottom:0px; z-index:10; border-top:1px solid #E4EAF4; }
+.bottom span { border-top:1px solid #E8EFF9; height:30px; width:100%; display:block }
+/*-----bg-----*/
+.central_bg { width:320px; height:427px; position:absolute; top:50%; left:0%; margin-top:-214px; }
+/*-----click-----*/
+.li_hover { background-position:0 -40px !important; }
+.li_press { background-position:0 -80px !important; }
+.li_hover.phone { background-position:0 -160px !important; }
+.li_press.phone { background-position:0 -200px !important; }
+/*ico*/
+.li_press.username span { background-position:-329px 0 !important; }
+.li_press.password span { background-position:-329px -18px !important; }
+.li_press.phone span { background-position:-329px -36px !important; }
+.li_press.sms span { background-position:-329px -54px !important; }
+.btn_ok .login_btn_hover { background-position:-200px -160px !important; }
+.btn_ok .login_btn_press { background-position:-200px -200px !important; }
+.btn_other .login_btn_hover { background-position:-130px -240px !important; }
+.btn_other .login_btn_press { background-position:-260px -240px !important; }
+.login_operate .login_btn_hover { background-position:-320px -160px !important; }
+.login_operate .login_btn_press { background-position:-320px -200px !important; }
+/*临时*/
+.msg-mask { position:absolute; top:0px; left:0px; background-color:#777777; z-index:10000; filter:progid:DXImageTransform.Microsoft.Alpha(opacity=25);
+opacity:0.25; }
+.msg-box { width : 300px; border: solid 4px #BDC9D7; background-color:#FFFFFF; position:absolute; z-index:10001; }
+.msg-box .msg-title { padding:10px 0 0 10px; zoom:1; }
+.msg-box .msg-close-two { text-align:right; padding:5px; background-color:#EFF2F5; }
+.msg-box .msg-close { cursor:pointer; }
+.msg-box .msg-content { background-color:#FFFFFF; padding:5px 15px 15px 23px; }
+/**/
+@media only screen and (max-width: 640px),(max-height:400px){
+.head .logo dl dt { margin: 14px 10px 14px 15px;}
+.head .logo dl dd {width:200px;}
+.login { margin:10px 10px 10px 30px;width:310px; height:350px;overflow:hidden; position:inherit;}
+.login .login_body {padding-top:0px;float: none;width: auto}
+.central_bg {display:none}
+.bottom {display:none}
+.other_x {display:none}
+.other{ margin-top: 20px; border-top:1px solid #CCC; width:300px; padding-top:5px;}
+.head .tool { float: none; margin-top:12px; position:absolute; right:0px; top:0px; }
+.head .tool ul li { color: #333; font-size:12px; float:left; margin:0 10px 10px 0px; height:16px; padding-left:20px; }
+.head .tool ul li.download { display:none}
+.login .login_head dd { font-size:11px;}
+.button_hide,.link-fluxcheck{ display:none}
+.authok .link-fluxcheck{ display:inline-block;!important}
+}
