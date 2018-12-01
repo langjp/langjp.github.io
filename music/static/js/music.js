@@ -4,7 +4,9 @@
  *
  * 音乐搜索器 - JS 文件
  *
- * @since   1.6.2
+ * @author  MaiCong <i@maicong.me>
+ * @link    https://github.com/maicong/music
+ * @since   1.5.9
  *
  */
 
