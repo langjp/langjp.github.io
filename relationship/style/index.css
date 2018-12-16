@@ -80,7 +80,7 @@ a:hover{
     height: 30px;
     width: 80px;
     margin: 10px 10px 10px 0;
-    background: #4bae4f;
+    background: #f56a6a;
     border: medium none;
     line-height: 30px;
     vertical-align: middle;
@@ -106,13 +106,13 @@ a:hover{
 	width: 90%;
 	height: 150px;
 	padding:5px 10px;
-	border: 1px solid #ebebeb;
+	border: 1px solid #958D8C;
 	resize: none;
 	outline: none;
 }
 .mod-panel .ft{
     padding-top: 20px;
-    border-top:1px dotted #e0e0e0;
+    border-top:1px dotted #898E8C;
 }
 .mod-panel .about{
 	padding: 0 20px;
