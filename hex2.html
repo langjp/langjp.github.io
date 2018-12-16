@@ -21,6 +21,7 @@
 							<li>支持二进制、八进制、十进制、十六进制 六十四进制以内的任意数字互相转换。</li>
 							<li>支持六十四进制以内的任意进制的数字转任意进制，目前最大支持64位，受限于电脑键盘的数量，如果字母数量更多，可以支持更高的进制数，不过目前64位可以满足几乎所有场景。</li>
 						</ul>
+						<hr>
 						<div>
 							<div class='row'>
 								<span class='span strong'>&ensp;2进制：</span>
@@ -33,6 +34,7 @@
 								</div>
 								<button class='button small' type="button" onclick="convert_c ( 2, 'bin_1', 10, 'ten_1' );">转换</button>
 							</div>
+							<hr>
 							<div class='row'>
 								<span class='span strong'>10进制：</span>
 								<div class='span four xs-four'>
@@ -44,7 +46,7 @@
 								</div>
 								<button class='button small' type="button" onclick="convert_c ( 10, 'ten_2', 2, 'bin_2' );" >转换</button>
 							</div>
-							<div class='divider form-hr'></div>
+							<hr>
 							<div class='row'>
 								<span class='span strong'>10进制：</span>
 								<div class='span four xs-four'>
@@ -56,6 +58,7 @@
 								</div>
 								<button class='button small' type="button small" onclick="convert_c ( 10, 'ten_3', 16, 'ten_six_3' );">转换</button>
 							</div>
+							<hr>
 							<div class='row'>
 								<span class='span strong'>16进制：</span>
 								<div class='span four xs-four'>
@@ -67,7 +70,7 @@
 								</div>
 								<button class='button small' type="button" onclick="convert_c ( 16, 'ten_six_4', 10, 'ten_4' );">转换</button>
 							</div>
-							<div class='divider form-hr'></div>
+							<hr>
 							<div class='row'>
 								<span class='span strong'>10进制：</span>
 								<div class='span four xs-four'>
@@ -79,6 +82,7 @@
 								</div>
 								<button class='button small' type="button" onclick="convert_c ( 10, 'ten_5', 64, 'six_four_5' );">转换</button>
 							</div>
+							<hr>
 							<div class='row'>
 								<span class='span strong'>64进制：</span>
 								<div class='span four xs-four'>
@@ -90,6 +94,7 @@
 								</div>
 								<button class='button small' type="button" onclick="convert_c ( 64, 'six_four_6', 10, 'ten_6' );">转换</button>
 							</div>
+							<hr>
 							<div class="row">
 								<div class='span one xs-two'>
 									<select id="any_hex_in" class="select small">
@@ -124,10 +129,7 @@ document.write ( t );
 								<button class='button small' type="button" onclick="convert ( 'any_hex_in', 'any_input', 'any_hex_out', 'any_output' );">转换</button>
 							</div>
 						</div>
-
-
-
-
+						<hr>
 						<div>
 							<script type="text/javascript" src="assets/js/hex.js"></script>
 							<div class='divider'></div>
@@ -136,9 +138,7 @@ document.write ( t );
 							</ul>
 						</div>
 					</div>
-
-
-
+					<hr>
 					<div id="sidebar">
 						<div class="inner">
 							<section id="search" class="alt">
