@@ -14,10 +14,10 @@
 	<link rel='stylesheet' id='fontawe-css'  href='/assets/css/font-awesome.min.css' type='text/css' media='all' />
 	<link rel='stylesheet' id='kratos-css'  href='/assets/css/main.min.css' type='text/css' media='all' />
 	<script type='text/javascript' src='/assets/js/jquery.min.js'></script>
-<style>#offcanvas-menu{background:rgba(42,42,42,.9)}.affix{top:61px}.kratos-cover.kratos-cover_2{background-image:url(/assets/images/bg.jpg)}}
+<style>#offcanvas-menu{background:rgba(42,42,42,.9)}.affix{top:61px}.kratos-cover.kratos-cover_2{background-image:url(https://img.fczbl.vip/images/2018/12/24/site_head.png)}@media(max-width:768px){.kratos-cover.kratos-cover_2{background-image:url(/assets/images/1.jpg)}}
 </style>
   </head>
-  <body>
+  <body >
 	<div id="kratos-wrapper">
 	  <div id="kratos-page">
 		<div id="kratos-header">
@@ -26,27 +26,30 @@
 			  <div class="nav-header">
 				<nav id="kratos-menu-wrap" class="menu-main-container">
 				  <ul id="kratos-primary-menu" class="sf-menu">
-					<li class="current-menu-item">
-					  <a href="#">
-						<i class="fa fa-home">
-						</i>首页</a></li>
-					<li><a><i class="fa fa-archive"></i>文章</a>
+					<li class="current-menu-item"><a href="/" aria-current="page"><i class="fa fa-home"></i> 首页</a></li>
+					<li><a><i class="fa fa-archive"></i> 文章</a>
 					  <ul class="sub-menu">
-						<li><a href="#">信息</a></li>
-						<li><a href="#">实用教程</a></li>
+						<li><a href="https://www.fczbl.vip/category/lab">实验室</a></li>
+						<li><a href="https://www.fczbl.vip/category/tutorial">实用教程</a></li>
+						<li><a href="https://www.fczbl.vip/category/syssof">系统&#038;软件</a></li>
+						<li><a href="https://www.fczbl.vip/category/daily">日常杂谈</a></li>
+						<li><a href="https://www.fczbl.vip/archives.html">文章归档</a></li>
 					  </ul>
 					</li>
-					<li><a><i class="fa fa-dashboard"></i>功能</a>
+					<li><a><i class="fa fa-dashboard"></i> 功能</a>
 					  <ul class="sub-menu">
-						<li><a href="#">注册</a></li>
-						<li><a href="#">登录</a></li>
-						<li><a target="_blank" href="#">邮箱</a></li>
+						<li><a href="https://www.fczbl.vip/wp-login.php?action=register">注册</a></li>
+						<li><a href="https://www.fczbl.vip/wp-login.php?redirect_to=https%3A%2F%2Fwww.fczbl.vip">登录</a></li>
+						<li><a target="_blank" href="https://outlook.com/?realm=fczbl.vip">邮箱</a></li>
 					  </ul>
 					</li>
 					<li><a><i class="fa fa-cogs"></i> 工具</a>
 					  <ul class="sub-menu">
 						<li><a target="_blank" href="https://api.fczbl.vip/">API</a></li>
 						<li><a target="_blank" href="https://kms.loli.beer/">KMS 服务</a></li>
+						<li><a target="_blank" href="https://mso.fczbl.vip/">MSO 365</a></li>
+						<li><a target="_blank" href="https://www.fczbl.vip/baidu/">百度一下</a></li>
+						<li><a target="_blank" href="https://www.fczbl.vip/musicplayer/">在线音乐台</a></li>
 						<li><a target="_blank" href="https://www.fczbl.vip/mikutap/">Mikutap</a></li>
 					  </ul>
 					</li>
@@ -66,14 +69,14 @@
 		</div>
 
 
+
+
+
+
 		<div id="kratos-blog-post" style="background:#f5f5f5">
 		  <div id="container" class="container">
 			<div class="row">
 			  <section id="main" class="col-md-8">
-
-
-
-
 
 				<article class="kratos-hentry clearfix">
 				  <div class="kratos-entry-border-new clearfix">
