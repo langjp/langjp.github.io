@@ -1,0 +1,57 @@
+
+<!doctype html>
+<html lang="zh-cmn-Hans">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no" />
+    <meta name="renderer" content="webkit" />
+    <meta name="force-rendering" content="webkit" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mdui@1.0.1/dist/css/mdui.min.css"
+        integrity="sha384-cLRrMq39HOZdvE0j6yBojO4+1PrHfB7a9l5qLcmRm/fiWXYY+CndJPmyu5FV/9Tw" crossorigin="anonymous" />
+    <script src="https://cdn.jsdelivr.net/npm/mdui@1.0.1/dist/js/mdui.min.js"
+        integrity="sha384-gCMZcshYKOGRX9r6wbDrvF+TcCCswSHFucUzUPwka+Gr+uHgjlYvkABr95TCOz3A" crossorigin="anonymous">
+    </script>
+    <script>
+        function copyTK() {
+            const input = document.querySelector('#token');
+            input.select();
+            document.execCommand("copy");
+            mdui.snackbar({
+                message: '已复制'
+            });
+        }
+    </script>
+    <script>
+        function sm(){
+            alert("学委提醒您赶紧学习！");
+        }
+    </script>
+    <title>四史学习 Token</title>
+</head>
+
+<body  class="mdui-theme-layout-auto mdui-theme-primary-indigo mdui-theme-accent-pink mdui-container mdui-typo">
+    <div>
+        <h1 class="mdui-text-color-theme">1. 获取UID</h1>
+        <a
+            href="https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxe12424c3b8aad5e6&redirect_uri=https://core.u.hep.com.cn/oauth/wechatmp/redirect&response_type=code&scope=snsapi_userinfo&state=5f582dd3683c2e0ae3aaacee-noguard-https://api.moeshin.com/univs_ssxx_uid/result.php/&connect_redirect">点我获取uid</a>
+    </div><br />
+    <div class="mdui-divider-dark"></div>
+    <h1 class="mdui-text-color-theme">2. uid转token</h1>
+    <form action="" method="POST">
+        <div class="mdui-textfield">
+            <label class="mdui-textfield-label">输入uid</label>
+            <input name="ssuid" class="mdui-textfield-input" type="text" value="" />
+        </div>
+        <p><button class="mdui-btn mdui-btn-raised mdui-ripple mdui-color-theme-accent" onclick="sm()">提交</button></p>
+    </form>
+    <div class="d">
+        请输入uid        <br />
+        
+    </div><br/>
+    <div class="mdui-divider-dark"></div>
+ 
+
+</body>
+</html>
